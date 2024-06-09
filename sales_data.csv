@@ -1,0 +1,366 @@
+Date,Product,Units_Sold,Revenue
+1/1/2023,Chocolate Cake,71,710
+1/2/2023,Vanilla Cake,56,560
+1/3/2023,Carrot Cake,47,470
+1/4/2023,Red Velvet,68,680
+1/5/2023,Brownie,79,790
+1/6/2023,Chocolate Cake,74,740
+1/7/2023,Vanilla Cake,40,400
+1/8/2023,Carrot Cake,53,530
+1/9/2023,Red Velvet,85,850
+1/10/2023,Brownie,91,910
+1/11/2023,Chocolate Cake,51,510
+1/12/2023,Vanilla Cake,52,520
+1/13/2023,Carrot Cake,56,560
+1/14/2023,Red Velvet,84,840
+1/15/2023,Brownie,81,810
+1/16/2023,Chocolate Cake,79,790
+1/17/2023,Vanilla Cake,67,670
+1/18/2023,Carrot Cake,31,310
+1/19/2023,Red Velvet,89,890
+1/20/2023,Brownie,81,810
+1/21/2023,Chocolate Cake,66,660
+1/22/2023,Vanilla Cake,63,630
+1/23/2023,Carrot Cake,31,310
+1/24/2023,Red Velvet,78,780
+1/25/2023,Brownie,84,840
+1/26/2023,Chocolate Cake,59,590
+1/27/2023,Vanilla Cake,59,590
+1/28/2023,Carrot Cake,50,500
+1/29/2023,Red Velvet,68,680
+1/30/2023,Brownie,78,780
+1/31/2023,Chocolate Cake,75,750
+2/1/2023,Vanilla Cake,65,650
+2/2/2023,Carrot Cake,48,480
+2/3/2023,Red Velvet,90,900
+2/4/2023,Brownie,98,980
+2/5/2023,Chocolate Cake,57,570
+2/6/2023,Vanilla Cake,61,610
+2/7/2023,Carrot Cake,60,600
+2/8/2023,Red Velvet,67,670
+2/9/2023,Brownie,86,860
+2/10/2023,Chocolate Cake,53,530
+2/11/2023,Vanilla Cake,70,700
+2/12/2023,Carrot Cake,50,500
+2/13/2023,Red Velvet,60,600
+2/14/2023,Brownie,87,870
+2/15/2023,Chocolate Cake,53,530
+2/16/2023,Vanilla Cake,43,430
+2/17/2023,Carrot Cake,54,540
+2/18/2023,Red Velvet,68,680
+2/19/2023,Brownie,71,710
+2/20/2023,Chocolate Cake,59,590
+2/21/2023,Vanilla Cake,51,510
+2/22/2023,Carrot Cake,39,390
+2/23/2023,Red Velvet,89,890
+2/24/2023,Brownie,100,1000
+2/25/2023,Chocolate Cake,62,620
+2/26/2023,Vanilla Cake,48,480
+2/27/2023,Carrot Cake,34,340
+2/28/2023,Red Velvet,65,650
+3/1/2023,Brownie,90,900
+3/2/2023,Chocolate Cake,62,620
+3/3/2023,Vanilla Cake,52,520
+3/4/2023,Carrot Cake,52,520
+3/5/2023,Red Velvet,70,700
+3/6/2023,Brownie,89,890
+3/7/2023,Chocolate Cake,56,560
+3/8/2023,Vanilla Cake,45,450
+3/9/2023,Carrot Cake,48,480
+3/10/2023,Red Velvet,62,620
+3/11/2023,Brownie,84,840
+3/12/2023,Chocolate Cake,78,780
+3/13/2023,Vanilla Cake,48,480
+3/14/2023,Carrot Cake,54,540
+3/15/2023,Red Velvet,71,710
+3/16/2023,Brownie,78,780
+3/17/2023,Chocolate Cake,78,780
+3/18/2023,Vanilla Cake,59,590
+3/19/2023,Carrot Cake,49,490
+3/20/2023,Red Velvet,73,730
+3/21/2023,Brownie,73,730
+3/22/2023,Chocolate Cake,67,670
+3/23/2023,Vanilla Cake,61,610
+3/24/2023,Carrot Cake,58,580
+3/25/2023,Red Velvet,85,850
+3/26/2023,Brownie,70,700
+3/27/2023,Chocolate Cake,66,660
+3/28/2023,Vanilla Cake,68,680
+3/29/2023,Carrot Cake,43,430
+3/30/2023,Red Velvet,81,810
+3/31/2023,Brownie,85,850
+4/1/2023,Chocolate Cake,65,650
+4/2/2023,Vanilla Cake,54,540
+4/3/2023,Carrot Cake,40,400
+4/4/2023,Red Velvet,72,720
+4/5/2023,Brownie,78,780
+4/6/2023,Chocolate Cake,51,510
+4/7/2023,Vanilla Cake,47,470
+4/8/2023,Carrot Cake,60,600
+4/9/2023,Red Velvet,61,610
+4/10/2023,Brownie,82,820
+4/11/2023,Chocolate Cake,61,610
+4/12/2023,Vanilla Cake,55,550
+4/13/2023,Carrot Cake,34,340
+4/14/2023,Red Velvet,74,740
+4/15/2023,Brownie,77,770
+4/16/2023,Chocolate Cake,69,690
+4/17/2023,Vanilla Cake,56,560
+4/18/2023,Carrot Cake,34,340
+4/19/2023,Red Velvet,89,890
+4/20/2023,Brownie,90,900
+4/21/2023,Chocolate Cake,65,650
+4/22/2023,Vanilla Cake,52,520
+4/23/2023,Carrot Cake,33,330
+4/24/2023,Red Velvet,84,840
+4/25/2023,Brownie,84,840
+4/26/2023,Chocolate Cake,73,730
+4/27/2023,Vanilla Cake,58,580
+4/28/2023,Carrot Cake,55,550
+4/29/2023,Red Velvet,60,600
+4/30/2023,Brownie,76,760
+5/1/2023,Chocolate Cake,52,520
+5/2/2023,Vanilla Cake,43,430
+5/3/2023,Carrot Cake,40,400
+5/4/2023,Red Velvet,63,630
+5/5/2023,Brownie,70,700
+5/6/2023,Chocolate Cake,66,660
+5/7/2023,Vanilla Cake,60,600
+5/8/2023,Carrot Cake,46,460
+5/9/2023,Red Velvet,85,850
+5/10/2023,Brownie,72,720
+5/11/2023,Chocolate Cake,55,550
+5/12/2023,Vanilla Cake,61,610
+5/13/2023,Carrot Cake,44,440
+5/14/2023,Red Velvet,71,710
+5/15/2023,Brownie,74,740
+5/16/2023,Chocolate Cake,71,710
+5/17/2023,Vanilla Cake,68,680
+5/18/2023,Carrot Cake,46,460
+5/19/2023,Red Velvet,62,620
+5/20/2023,Brownie,93,930
+5/21/2023,Chocolate Cake,62,620
+5/22/2023,Vanilla Cake,54,540
+5/23/2023,Carrot Cake,45,450
+5/24/2023,Red Velvet,66,660
+5/25/2023,Brownie,80,800
+5/26/2023,Chocolate Cake,52,520
+5/27/2023,Vanilla Cake,58,580
+5/28/2023,Carrot Cake,35,350
+5/29/2023,Red Velvet,88,880
+5/30/2023,Brownie,73,730
+5/31/2023,Chocolate Cake,63,630
+6/1/2023,Vanilla Cake,48,480
+6/2/2023,Carrot Cake,57,570
+6/3/2023,Red Velvet,83,830
+6/4/2023,Brownie,78,780
+6/5/2023,Chocolate Cake,70,700
+6/6/2023,Vanilla Cake,47,470
+6/7/2023,Carrot Cake,32,320
+6/8/2023,Red Velvet,60,600
+6/9/2023,Brownie,80,800
+6/10/2023,Chocolate Cake,74,740
+6/11/2023,Vanilla Cake,49,490
+6/12/2023,Carrot Cake,37,370
+6/13/2023,Red Velvet,74,740
+6/14/2023,Brownie,77,770
+6/15/2023,Chocolate Cake,60,600
+6/16/2023,Vanilla Cake,41,410
+6/17/2023,Carrot Cake,44,440
+6/18/2023,Red Velvet,66,660
+6/19/2023,Brownie,96,960
+6/20/2023,Chocolate Cake,68,680
+6/21/2023,Vanilla Cake,63,630
+6/22/2023,Carrot Cake,58,580
+6/23/2023,Red Velvet,70,700
+6/24/2023,Brownie,86,860
+6/25/2023,Chocolate Cake,52,520
+6/26/2023,Vanilla Cake,59,590
+6/27/2023,Carrot Cake,42,420
+6/28/2023,Red Velvet,89,890
+6/29/2023,Brownie,73,730
+6/30/2023,Chocolate Cake,78,780
+7/1/2023,Vanilla Cake,59,590
+7/2/2023,Carrot Cake,40,400
+7/3/2023,Red Velvet,64,640
+7/4/2023,Brownie,84,840
+7/5/2023,Chocolate Cake,56,560
+7/6/2023,Vanilla Cake,70,700
+7/7/2023,Carrot Cake,34,340
+7/8/2023,Red Velvet,60,600
+7/9/2023,Brownie,80,800
+7/10/2023,Chocolate Cake,66,660
+7/11/2023,Vanilla Cake,68,680
+7/12/2023,Carrot Cake,46,460
+7/13/2023,Red Velvet,72,720
+7/14/2023,Brownie,96,960
+7/15/2023,Chocolate Cake,75,750
+7/16/2023,Vanilla Cake,60,600
+7/17/2023,Carrot Cake,52,520
+7/18/2023,Red Velvet,90,900
+7/19/2023,Brownie,80,800
+7/20/2023,Chocolate Cake,65,650
+7/21/2023,Vanilla Cake,52,520
+7/22/2023,Carrot Cake,51,510
+7/23/2023,Red Velvet,65,650
+7/24/2023,Brownie,83,830
+7/25/2023,Chocolate Cake,66,660
+7/26/2023,Vanilla Cake,65,650
+7/27/2023,Carrot Cake,46,460
+7/28/2023,Red Velvet,73,730
+7/29/2023,Brownie,85,850
+7/30/2023,Chocolate Cake,57,570
+7/31/2023,Vanilla Cake,59,590
+8/1/2023,Carrot Cake,45,450
+8/2/2023,Red Velvet,81,810
+8/3/2023,Brownie,97,970
+8/4/2023,Chocolate Cake,61,610
+8/5/2023,Vanilla Cake,49,490
+8/6/2023,Carrot Cake,39,390
+8/7/2023,Red Velvet,64,640
+8/8/2023,Brownie,86,860
+8/9/2023,Chocolate Cake,56,560
+8/10/2023,Vanilla Cake,58,580
+8/11/2023,Carrot Cake,41,410
+8/12/2023,Red Velvet,87,870
+8/13/2023,Brownie,84,840
+8/14/2023,Chocolate Cake,55,550
+8/15/2023,Vanilla Cake,61,610
+8/16/2023,Carrot Cake,53,530
+8/17/2023,Red Velvet,79,790
+8/18/2023,Brownie,94,940
+8/19/2023,Chocolate Cake,55,550
+8/20/2023,Vanilla Cake,65,650
+8/21/2023,Carrot Cake,36,360
+8/22/2023,Red Velvet,89,890
+8/23/2023,Brownie,72,720
+8/24/2023,Chocolate Cake,51,510
+8/25/2023,Vanilla Cake,64,640
+8/26/2023,Carrot Cake,41,410
+8/27/2023,Red Velvet,74,740
+8/28/2023,Brownie,73,730
+8/29/2023,Chocolate Cake,53,530
+8/30/2023,Vanilla Cake,45,450
+8/31/2023,Carrot Cake,31,310
+9/1/2023,Red Velvet,82,820
+9/2/2023,Brownie,86,860
+9/3/2023,Chocolate Cake,67,670
+9/4/2023,Vanilla Cake,46,460
+9/5/2023,Carrot Cake,44,440
+9/6/2023,Red Velvet,83,830
+9/7/2023,Brownie,93,930
+9/8/2023,Chocolate Cake,62,620
+9/9/2023,Vanilla Cake,67,670
+9/10/2023,Carrot Cake,53,530
+9/11/2023,Red Velvet,62,620
+9/12/2023,Brownie,89,890
+9/13/2023,Chocolate Cake,72,720
+9/14/2023,Vanilla Cake,40,400
+9/15/2023,Carrot Cake,43,430
+9/16/2023,Red Velvet,72,720
+9/17/2023,Brownie,78,780
+9/18/2023,Chocolate Cake,80,800
+9/19/2023,Vanilla Cake,64,640
+9/20/2023,Carrot Cake,51,510
+9/21/2023,Red Velvet,72,720
+9/22/2023,Brownie,92,920
+9/23/2023,Chocolate Cake,58,580
+9/24/2023,Vanilla Cake,51,510
+9/25/2023,Carrot Cake,43,430
+9/26/2023,Red Velvet,89,890
+9/27/2023,Brownie,73,730
+9/28/2023,Chocolate Cake,70,700
+9/29/2023,Vanilla Cake,50,500
+9/30/2023,Carrot Cake,33,330
+10/1/2023,Red Velvet,65,650
+10/2/2023,Brownie,72,720
+10/3/2023,Chocolate Cake,63,630
+10/4/2023,Vanilla Cake,69,690
+10/5/2023,Carrot Cake,46,460
+10/6/2023,Red Velvet,75,750
+10/7/2023,Brownie,100,1000
+10/8/2023,Chocolate Cake,56,560
+10/9/2023,Vanilla Cake,51,510
+10/10/2023,Carrot Cake,42,420
+10/11/2023,Red Velvet,68,680
+10/12/2023,Brownie,85,850
+10/13/2023,Chocolate Cake,54,540
+10/14/2023,Vanilla Cake,56,560
+10/15/2023,Carrot Cake,59,590
+10/16/2023,Red Velvet,77,770
+10/17/2023,Brownie,98,980
+10/18/2023,Chocolate Cake,70,700
+10/19/2023,Vanilla Cake,53,530
+10/20/2023,Carrot Cake,51,510
+10/21/2023,Red Velvet,61,610
+10/22/2023,Brownie,93,930
+10/23/2023,Chocolate Cake,71,710
+10/24/2023,Vanilla Cake,55,550
+10/25/2023,Carrot Cake,34,340
+10/26/2023,Red Velvet,66,660
+10/27/2023,Brownie,80,800
+10/28/2023,Chocolate Cake,74,740
+10/29/2023,Vanilla Cake,41,410
+10/30/2023,Carrot Cake,46,460
+10/31/2023,Red Velvet,83,830
+11/1/2023,Brownie,94,940
+11/2/2023,Chocolate Cake,60,600
+11/3/2023,Vanilla Cake,70,700
+11/4/2023,Carrot Cake,54,540
+11/5/2023,Red Velvet,80,800
+11/6/2023,Brownie,98,980
+11/7/2023,Chocolate Cake,77,770
+11/8/2023,Vanilla Cake,52,520
+11/9/2023,Carrot Cake,33,330
+11/10/2023,Red Velvet,89,890
+11/11/2023,Brownie,94,940
+11/12/2023,Chocolate Cake,71,710
+11/13/2023,Vanilla Cake,52,520
+11/14/2023,Carrot Cake,30,300
+11/15/2023,Red Velvet,65,650
+11/16/2023,Brownie,75,750
+11/17/2023,Chocolate Cake,65,650
+11/18/2023,Vanilla Cake,52,520
+11/19/2023,Carrot Cake,33,330
+11/20/2023,Red Velvet,68,680
+11/21/2023,Brownie,89,890
+11/22/2023,Chocolate Cake,76,760
+11/23/2023,Vanilla Cake,55,550
+11/24/2023,Carrot Cake,35,350
+11/25/2023,Red Velvet,87,870
+11/26/2023,Brownie,81,810
+11/27/2023,Chocolate Cake,60,600
+11/28/2023,Vanilla Cake,63,630
+11/29/2023,Carrot Cake,36,360
+11/30/2023,Red Velvet,73,730
+12/1/2023,Brownie,77,770
+12/2/2023,Chocolate Cake,77,770
+12/3/2023,Vanilla Cake,58,580
+12/4/2023,Carrot Cake,41,410
+12/5/2023,Red Velvet,72,720
+12/6/2023,Brownie,96,960
+12/7/2023,Chocolate Cake,68,680
+12/8/2023,Vanilla Cake,68,680
+12/9/2023,Carrot Cake,46,460
+12/10/2023,Red Velvet,70,700
+12/11/2023,Brownie,96,960
+12/12/2023,Chocolate Cake,58,580
+12/13/2023,Vanilla Cake,48,480
+12/14/2023,Carrot Cake,35,350
+12/15/2023,Red Velvet,70,700
+12/16/2023,Brownie,70,700
+12/17/2023,Chocolate Cake,73,730
+12/18/2023,Vanilla Cake,66,660
+12/19/2023,Carrot Cake,38,380
+12/20/2023,Red Velvet,81,810
+12/21/2023,Brownie,82,820
+12/22/2023,Chocolate Cake,75,750
+12/23/2023,Vanilla Cake,62,620
+12/24/2023,Carrot Cake,43,430
+12/25/2023,Red Velvet,62,620
+12/26/2023,Brownie,82,820
+12/27/2023,Chocolate Cake,60,600
+12/28/2023,Vanilla Cake,62,620
+12/29/2023,Carrot Cake,39,390
+12/30/2023,Red Velvet,84,840
+12/31/2023,Brownie,74,740
