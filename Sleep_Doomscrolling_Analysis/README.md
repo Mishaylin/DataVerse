@@ -9,7 +9,6 @@ A portfolio-ready exploratory analysis of 1,000 respondents examining the relati
 - Explores sleep-quality segments and respondent-level relationships.
 - Uses six GitHub-rendered visualizations with accessible labels and honest scales.
 - Builds a leakage-controlled random-forest benchmark for sleep-quality classification.
-- Includes an editable six-slide PowerPoint dashboard for presenting the findings.
 - Separates observed associations from causal conclusions.
 
 ## Key findings
@@ -29,7 +28,6 @@ Sleep_Doomscrolling_Analysis/
 ├── data/
 │   └── sleep_doomscrolling_habits.csv
 ├── sleep_doomscrolling_analysis.ipynb
-├── sleep_doomscrolling_dashboard.pptx
 ├── requirements.txt
 └── README.md
 ```
@@ -55,7 +53,6 @@ Open `sleep_doomscrolling_analysis.ipynb` and run all cells from top to bottom. 
 - All 12 code cells executed successfully in order.
 - Zero unexecuted code cells and zero error outputs.
 - Six embedded charts visually inspected.
-- All six PowerPoint slides rendered and visually inspected; overflow test passed.
 - Source CSV contains 1,000 unique respondent IDs and no duplicate rows.
 
 ## Limitations
